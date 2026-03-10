@@ -4,23 +4,15 @@ Hi, I'm Fakhar Alam.
 
 I’m currently learning **Full-Stack Web Development** and documenting my coding journey in public.
 
-🧠 What I’m learning
-
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
-* Modern Web Development
-## 🧩 Tech I'm Learning
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+🧠🧩 Tech I'm learning
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Frontend](https://img.shields.io/badge/Frontend-FF6F00?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-4CAF50?style=for-the-badge)
-![Modern Web Development](https://img.shields.io/badge/Modern%20Web%20Development-6A1B9A?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend%20Development-FF6F00?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend%20Development-4CAF50?style=for-the-badge)
+![Modern%20Web%20Development](https://img.shields.io/badge/Modern%20Web%20Development-6A1B9A?style=for-the-badge)
+
 
 🚀 Current focus
 Building small web projects and improving my programming skills every day.
