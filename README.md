@@ -29,5 +29,6 @@ I'm currently learning web development through **Scrimba**.
 If you'd like to start your own coding journey, you can use my link below to explore their courses and get **20% off**:
 
 [https://scrimba.com/?via=u43a7734]
+
 <img width="640" height="95" alt="image" src="https://github.com/user-attachments/assets/5f869af8-a782-4223-a3aa-aacac32daaf0" />
 
