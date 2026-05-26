@@ -2,26 +2,34 @@
 
 Hi, I'm Fakhar Alam.
 
-I’m currently learning **Full-Stack Web Development** and documenting my coding journey in public.
+I'm a passionate Full-Stack Web Developer in progress, currently exploring the worlds of modern web development and AI.  
+I enjoy building clean, responsive, and user-friendly applications while sharing my coding journey publicly.
 
-### 🧠🧩 Tech I'm learning:
+## 🧠 Tech I'm Learning
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Frontend](https://img.shields.io/badge/Frontend%20Development-FF6F00?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend%20Development-4CAF50?style=for-the-badge)
-![Modern%20Web%20Development](https://img.shields.io/badge/Modern%20Web%20Development-6A1B9A?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-FF6F00?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Backend_Development-4CAF50?style=for-the-badge)
+![Modern Web Development](https://img.shields.io/badge/Modern_Web_Development-7B2CBF?style=for-the-badge)
 
 
-### 🚀 Current focus
+## 🚀 Current Focus
 
-Building small web projects and improving my programming skills every day.
+Building small web projects, improving problem-solving skills, and learning React & backend development step by step.
 
-### 🌱 Future goals
+## 🌱 Future Goals
 
-To grow into a **Full-Stack Web Developer** and eventually explore **AI and Machine Learning**.
+To become a skilled **Full-Stack Developer** and eventually move deeper into **AI and Machine Learning**.
 
 ### 🔗 Connect with me
 
